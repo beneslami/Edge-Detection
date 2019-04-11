@@ -1,0 +1,2 @@
+# Edge-Detection
+Sobel Algorithm
